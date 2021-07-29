@@ -21,8 +21,12 @@ En utilisant l'API RAWG , dont tu pourras trouver la documentation en suivant ce
 
 Étant donné que nous sommes en 2028, tous les sites sont désormais des SPA, et cela serait une énorme faute de goût de faire un site "des années 2022". Il faudra donc que ton site soit une SPA.
 
-Si clone : 
+Si clone :
+
 npm i
+
 npm run dev
+
 http://localhost:8080/
+
 http://localhost:8080/#pagelist
