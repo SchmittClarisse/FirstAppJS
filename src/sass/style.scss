@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;900&display=swap');
+
+*{
+	box-sizing: border-box;
+}
+:root{
+ --black : #191919;
+ --red:#C12B39
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color: var(--black);
+	color:white;
+	font-size:20px;
+	padding:0.5rem 3rem;
+}
+.is__red{
+	color:var(--red)
+}
+h1{
+	font-size:55px;
+	font-weight: 900;
+}
+
+p{
+	line-height: 150%;
+}
+.red__btn{
+	padding: 10px 28px;
+	background:var(--red);
+	border:none;
+	color:white;
+	font-size:24px;
+	font-weight: 500;
+	border-radius: 2px;
+}
+.card{
+	margin-bottom: 100px;
+}
+.card_img{
+	
+	width: 100%;
+}
+span{
+	margin-left:1rem;
+}
+
+.images__grid{
+	margin-top:50px;
+	display: grid;
+	grid-template-columns: repeat(4,300px);
+	
+}
+img{
+	width: 100%;
+}
+
+.store{
+	color:aquamarine
+}
+.similar__header{
+	margin-top:200px;
+}
+.similar__games{
+	display:grid;
+
+	grid-template-columns: repeat(5,250px);
+	grid-template-rows:250px;
+}
+.similar__game{
+	display:flex;
+	flex-direction: column;
+}
+.similar__img{
+	width:150px;
+	height: 150px;
+	object-fit: cover;
+}
