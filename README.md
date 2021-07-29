@@ -1,5 +1,6 @@
 # FirstAppJS
 1. Introduction
+
 Aout 2028. Le soleil brille dans le ciel. Il fait beau, tu es sorti dans ton jardin pour bronzer (oui d'ailleurs, la pandémie est passée, ne t'en fais pas).
 
 8 ans ont passé. Tu t'es fait un nom dans le domaine du développement Web. On t'appelle Agent 0042. Tu factures tes journées de travail en freelance à 1500€/jour.
